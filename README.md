@@ -10,4 +10,6 @@ I found the concept of angles and how it changes very intresting while creating 
 
 Please enjoy the game and feel free to suggest any changes.
 
+The way i change scores are pretty dodgy, so you can suggest some better ways.
+
 HAVE A GREAT DAY!!!!!!!
