@@ -9,13 +9,13 @@ class Ball(Turtle):
         self.color("white")
         self.pu()
         self.x_move=10
-        self.y_move=10
-                            #self.setheading(random.choice([list ko direction]))
+        self.y_move=10       #comments are changes that can be made on how you choose to move the ball
+                            #self.setheading(random.choice([list of directions]))
    
    
    
     def move(self):
-        new_x=self.xcor() + self.x_move #self.forward(10)
+        new_x=self.xcor() + self.x_move  #self.forward(10)
         new_y=self.ycor() + self.y_move
 
         self.goto(x=new_x,y=new_y)
